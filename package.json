@@ -1,0 +1,21 @@
+{
+  "name": "@taalpha/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for my projects",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/tokisakiyuu/tsconfig.git"
+  },
+  "author": {
+    "name": "Tokisaki Yuu",
+    "email": "tokisakiyuu@qq.com",
+    "url": "https://tokisakiyuu.com"
+  },
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "tsconfig.json"
+  ]
+}
